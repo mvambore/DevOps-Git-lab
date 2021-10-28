@@ -4,10 +4,9 @@ int main(){
 
 	int a = 32;
 	printf("Hello from MSIS DevOps lab2.");
-
-	int b = 10, c;
+	//int b = 10, c;
 
 	c = a + b;
 
-	//printf("%d\n", c);
+	//printf("sum%d\n", c);
 }
